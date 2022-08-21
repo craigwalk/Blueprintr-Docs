@@ -18,7 +18,7 @@ tags: [excalidraw]
 
 [[Blueprint]] ^F4jprPW3
 
-[[Comment Boxes]] ^EE5UrZgQ
+[[Comment Box]] ^EE5UrZgQ
 
 [[naming - what do we call layers?]] ^uh3HbTfF
 
