@@ -1,12 +1,8 @@
-I’ve been an entrepreneur for the past 5 years, and I love solving product problems.  I find that I learn best through examples and doing the work myself.  I’m sure others have similar learning styles, so I’ll share a recent assignment for an education startup.  The task is to create a first draft spec to improve the process of choosing interests ([full pdf](https://www.dropbox.com/s/nu96ivbjihm6jz3/NoRedInk%20PM%20Take-Home_%20Student%20Interests.pdf?dl=0)).  [Example support tickets](https://www.dropbox.com/s/jl8qazkme9h8u8y/NoRedInk%20Example%20Support%20Tickets.pdf?dl=0) are also available for the assignment.   I encourage you to try  completing the assignment before reading my response.  If you don’t know how to start, I recommend reading [Silicon Valley Product Group’s guide on PRDs](https://svpg.com/assets/Files/goodprd.pdf).  Even if you aren’t a product manager, a product spec is an excellent way to organize your thoughts, align expectations, and ensure your tasks can be attributed to specific outcomes.  Just remember, it’s not the “end-all-be-all.”  The document should change based on data and feedback.
-
-# Example Response: Interest Selection Improvements
-
-This project aims to improve interest selection by removing the traditional interest page and introducing a “like” system to student assignments.  Because our users are sensitive to disruptions, we will roll out to a limited group for 6 weeks. After which, we’ll analyze the results and decide whether to continue to next steps or try other solutions.
+# Blueprintr
 
 ## Problem
 
-1.  **Interest selection is too long:** 44% of students and teachers find the interest selection process long and cumbersome. ([source 1](https://docs.google.com/document/d/1SbzkTl4vzxlpYLBcIn0kNpo04D2ypGzKtyVEZeQ8hSk/edit), [source 2](https://docs.google.com/spreadsheets/d/1PNEgxOsEpTVXU55bC3eUPlPD-ChWbolZr8pPxdH_lu0/edit#gid=0))
+1.  Lack of transparency and lineage across the product and software development life cycle.
 
 ## Objective
 
