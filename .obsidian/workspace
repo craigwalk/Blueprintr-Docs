@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "1235e0e1a707115d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a77713a290eda6",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Blueprintr/Wireframes/Lofi-wireframe.excalidraw.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95206304cfe7f35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b570a4a1c5748c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d35c2b37e809287",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1782dedfa85645e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "897c3ec68a9e0a43",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5
+  },
+  "right": {
+    "id": "be205cd7415fffec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4d5ce0e6de60113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2956799f1a1459",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blueprintr/Wireframes/Lofi-wireframe.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5e86570ea0c0b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blueprintr/Wireframes/Lofi-wireframe.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99d57efb6ace5845",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52cb8e370298739e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blueprintr/Wireframes/Lofi-wireframe.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6a77713a290eda6",
+  "lastOpenFiles": [
+    "Blueprintr/Decisions/Lofi-Wireframe Decisions.md",
+    "Blueprintr/Docs/Decision Module.md",
+    "Blueprintr/UI/Assets/Comment Box.md",
+    "Blueprintr/Wireframes/User Action/User Action.md",
+    "Blueprintr/Wireframes/Lofi-wireframe.excalidraw.md",
+    "Blueprintr/Wireframes/Lofi-wireframe-skillring.excalidraw.md",
+    "Blueprintr/Docs/Design Module.md",
+    "Blueprintr/UI/Assets/Layers.md",
+    "Blueprintr/Product Roadmap/Product Specification.md"
+  ]
+}
