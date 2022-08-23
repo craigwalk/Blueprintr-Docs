@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "token": "aacf003e606ffd0e2552b51e0618fff2ba23f5f1ced25aed6ac93380ec210797",
+    "customUi": {
+      "global": {
+        "checklists": true,
+        "comments": true,
+        "description": true,
+        "labels": true,
+        "list": true,
+        "title": true
+      }
+    },
+    "selectedBoards": [
+      {
+        "id": "62b2f50b1c407d5fcabaa19f",
+        "name": "Kanban",
+        "url": "https://trello.com/b/ITqan1dd/kanban"
+      },
+      {
+        "id": "62c29e2807c958090a542aaa",
+        "name": "User Stories",
+        "url": "https://trello.com/b/14ZKHlT2/user-stories"
+      }
+    ],
+    "openToSide": "right",
+    "newCardPosition": "top",
+    "movedCardPosition": "top",
+    "verboseLogging": false
+  },
+  "version": "1.6.0",
+  "firstRun": false,
+  "connectedCards": {}
+}

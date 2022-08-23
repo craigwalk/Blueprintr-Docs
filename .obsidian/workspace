@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a77713a290eda6",
+        "id": "8d1612235df9a04d",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
@@ -59,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 420.5,
+    "collapsed": true
   },
   "right": {
     "id": "be205cd7415fffec",
@@ -118,24 +119,34 @@
                 "file": "Blueprintr/Wireframes/Lofi-wireframe.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "4dc30ba9a7894126",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "b6a77713a290eda6",
+  "active": "4dc30ba9a7894126",
   "lastOpenFiles": [
+    "Blueprintr/Docs/Diagrams/Blueprint-Canvas.excalidraw.md",
+    "Pasted Image 20220715130140_369.png",
+    "Pasted Image 20220715125739_846.png",
+    "Pasted Image 20220715123938_534.png",
+    "Pasted Image 20220715122201_877.png",
+    "Blueprintr/SDLC/BizDevOps Workflow - React 1.md",
+    "Blueprintr/Product Roadmap/Product Specification.md",
+    "Pasted image 20220722001015.png.md",
     "Blueprintr/Decisions/Lofi-Wireframe Decisions.md",
-    "Blueprintr/Docs/Decision Module.md",
-    "Blueprintr/UI/Assets/Comment Box.md",
-    "Blueprintr/Wireframes/User Action/User Action.md",
-    "Blueprintr/Wireframes/Lofi-wireframe.excalidraw.md",
-    "Blueprintr/Wireframes/Lofi-wireframe-skillring.excalidraw.md",
-    "Blueprintr/Docs/Design Module.md",
-    "Blueprintr/UI/Assets/Layers.md",
-    "Blueprintr/Product Roadmap/Product Specification.md"
+    "Blueprintr/Wireframes/Lofi-wireframe.excalidraw.md"
   ]
 }
